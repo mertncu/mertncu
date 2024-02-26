@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🌱I’m currently working on / learning Kotlin and Mobile Development.<br>🔭I had a few experiences with the projects I developed in the field of web development<br><br>💬 Fields of Interest<br>     - Web Development<br>     - Kotlin<br>     - Mobile Development<br>
 
 
