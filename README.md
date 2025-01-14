@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">- 📚 I’m currently a 3rd-year student at Işık University, studying Management Information Systems.<br><br>- 🔭 I'm learning Android development, focusing on  architecture patterns and tools <br><br>-⚡ In my free time, I work on different projects to improve my skills, explore unique and niche UI designs, and enjoy reading about new technologies.</p>
+<p align="left">- 📚 I’m currently a 3rd-year student at Işık University, studying Management Information Systems.<br><br>- 🔭 I'm learning Android development, Backend Development with using Kotlin and Java, focusing on  architecture patterns and tools <br><br>-⚡ In my free time, I work on different projects to improve my skills, explore unique and niche UI designs, and enjoy reading about new technologies.</p>
 
 ###
 
