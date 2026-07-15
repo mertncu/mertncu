@@ -25,24 +25,6 @@
 
 ###
 
-<p align="left">I am a Management Information Systems student and aspiring software developer focusing on:<br><br>- Backend Development: .NET, Java, Spring Boot  <br>- Mobile Development: Kotlin (Android)  <br>- Databases: MSSQL, PostgreSQL, MySQL  <br>- Software Architecture: Clean Architecture, SOLID, Design Patterns  <br><br>🔍 My goal is to design efficient, secure, and scalable systems.  <br>📈 Currently enhancing my skills in advanced database systems and enterprise-level backend development.</p>
+<p align="left">Hi, I'm Yener Mert Uncu. I'm a software developer interested in building useful and scalable applications. I enjoy learning new technologies, improving my skills, and creating solutions through software.</p>
 
-###
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain-wordmark.svg" height="40" alt="androidstudio logo"  />
-</div>
-
-###
